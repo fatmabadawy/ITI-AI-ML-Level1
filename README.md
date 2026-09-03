@@ -16,7 +16,7 @@ This repository contains my lab work and assignments from the **ITI AI & Machine
 | `lab_5.py` | Data Visualization | Sales data analysis and line-plot generation from `company_sales_data.csv` (exported from Colab). |
 | `Lab6_part1.ipynb` | Exploratory Data Analysis — Part 1 | Loading and inspecting the Iris dataset (shape, dtypes, preview rows) and general EDA workflow. |
 | `Lab6_Part2.ipynb` | Data Preprocessing — Part 2 | Feature scaling concepts (`StandardScaler` vs `RobustScaler`), mean vs. median, and evaluation-metric reasoning (precision/recall trade-offs), with bilingual (Arabic/English) notes. |
-| `Lab7_SimpleLinearRegression (1).ipynb` | Simple Linear Regression | Three case studies: house price vs. size, exam score vs. study hours, and diabetes progression vs. BMI. |
+| `Lab7_SimpleLinearRegression.ipynb` | Simple Linear Regression | Three case studies: house price vs. size, exam score vs. study hours, and diabetes progression vs. BMI. |
 | `Lab7_MultiVariableLinearRegression.ipynb` | Multivariable Linear Regression | Case studies on Boston Housing, Diabetes progression, and California Housing using multiple features. |
 | `lab_8.py` | Classification — Logistic Regression | Breast cancer diagnosis: EDA, train/test split, logistic regression (with and without L2 regularization), grid search, and evaluation via confusion matrix, precision, recall, and ROC-AUC. |
 | `Lab9.ipynb` | Classification & Regression Case Studies | Iris species classification (multiclass), diabetes progression (regression), and wine quality classification (imbalanced multiclass). |
