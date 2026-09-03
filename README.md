@@ -23,7 +23,6 @@ This repository contains my lab work and assignments from the **ITI AI & Machine
 | `MLP_Lab_9_ScikitLearn_vs_Keras.ipynb` | Neural Networks — Scikit-learn vs. Keras | MLP case studies solved with both `MLPClassifier`/`MLPRegressor` and Keras, including decision-boundary visualizations. |
 | `MLP_Lab9_Full_Solutions.ipynb` | Neural Networks — Full Solutions | All 5 MLP case studies solved two ways (baseline vs. tuned architecture), with performance comparisons and takeaways. |
 | `Lab10.ipynb` | Case Study — Boston Housing Regression | End-to-end regression case study on the Boston Housing dataset. |
-| `4_evaluating_llm_applications_openrouter.ipynb` | LLM Evaluation | Evaluating LLM applications using LangChain and the OpenRouter API. |
 
 ## 🧠 Topics Covered
 
@@ -35,14 +34,8 @@ This repository contains my lab work and assignments from the **ITI AI & Machine
 - Classification (logistic regression, multiclass, imbalanced data)
 - Model evaluation metrics (precision, recall, ROC-AUC, confusion matrix)
 - Neural Networks / MLPs (Scikit-learn & Keras)
-- LLM application evaluation
 
 ## 🛠️ Tools & Libraries
 
-`Python`, `NumPy`, `Pandas`, `Matplotlib`, `SciPy`, `Scikit-learn`, `Keras`, `LangChain`
+`Python`, `NumPy`, `Pandas`, `Matplotlib`, `SciPy`, `Scikit-learn`, `Keras`
 
-## 📌 Notes
-
-- Each lab is self-contained and can be run independently.
-- Notebooks (`.ipynb`) are best viewed in Jupyter or Google Colab.
-- Some notebooks include Arabic-language notes/explanations alongside the English content.
