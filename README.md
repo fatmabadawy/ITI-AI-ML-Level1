@@ -33,8 +33,6 @@ ITI_level1/
 │   └── MLP_Lab_9_ScikitLearn_vs_Keras.ipynb
 ├── Lab10_CaseStudy_BostonHousing/
 │   └── Lab10.ipynb
-├── Extra_LLM_Evaluation/
-│   └── 4_evaluating_llm_applications_openrouter.ipynb
 ├── Certificates/
 │   ├── Fatma_Badawy_-_Computer_Vision.png
 │   └── Fatma_Badawy_-_Intro_to_Deep_Learning.png
@@ -55,7 +53,6 @@ ITI_level1/
 | `Lab08_LogisticRegression_Classification/` | Classification — Logistic Regression | Breast cancer diagnosis: EDA, train/test split, logistic regression (with/without L2 regularization), grid search, and evaluation via confusion matrix, precision, recall, and ROC-AUC. |
 | `Lab09_MLP_NeuralNetworks/` | Neural Networks / MLPs | Iris, diabetes, and wine-quality case studies solved with `MLPClassifier`/`MLPRegressor` and Keras, including tuned vs. baseline comparisons and decision-boundary visualizations. |
 | `Lab10_CaseStudy_BostonHousing/` | Case Study — Boston Housing Regression | End-to-end regression case study on the Boston Housing dataset. |
-| `Extra_LLM_Evaluation/` | LLM Evaluation | Evaluating LLM applications using LangChain and the OpenRouter API. |
 
 ## 🏅 Certificates
 
@@ -76,11 +73,10 @@ Kaggle course certificates completed as part of this training:
 - Classification (logistic regression, multiclass, imbalanced data)
 - Model evaluation metrics (precision, recall, ROC-AUC, confusion matrix)
 - Neural Networks / MLPs (Scikit-learn & Keras)
-- LLM application evaluation
 
 ## 🛠️ Tools & Libraries
 
-`Python`, `NumPy`, `Pandas`, `Matplotlib`, `SciPy`, `Scikit-learn`, `Keras`, `LangChain`
+`Python`, `NumPy`, `Pandas`, `Matplotlib`, `SciPy`, `Scikit-learn`, `Keras`
 
 ## 📌 Notes
 
